@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ./poi-3.9-20121203.jar
+Main-Class: IDUpdater
+
